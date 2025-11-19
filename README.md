@@ -29,6 +29,7 @@ Perfect for automated status dashboards in Discord!
 ## 🔍 Server Status
 Checks if the process:
 
+PalServer-Win64-Shipping-Cmd
 
 is running.
 
