@@ -70,7 +70,7 @@ to update the Discord embed in place.
 
 Just run:
 
-.\PalworldStatusUpdater.ps1
+The included ps1 file.
 
 
 ## 📬 How to Get a Discord Webhook URL
