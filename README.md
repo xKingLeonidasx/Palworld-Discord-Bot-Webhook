@@ -47,6 +47,8 @@ is running.
 
 Runs:
 
+showplayers
+
 Cleans and formats the player list.
 
 ---
