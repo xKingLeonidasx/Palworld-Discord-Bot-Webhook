@@ -22,6 +22,8 @@ Perfect for automated status dashboards in Discord!
 - Task Scheduler configured with a task called "Reboot Server"
 - A Discord webhook
 - Webhook message ID (since this script edits the message)
+- Update the RCON password and port on the script specific to your server.
+- Can change the Patch message for Discord at bottom of script.
 
 
 # ⚙️ Script Overview
