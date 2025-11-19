@@ -23,6 +23,56 @@ Perfect for automated status dashboards in Discord!
 - A Discord webhook
 - Webhook message ID (since this script edits the message)
 
+
+# ⚙️ Script Overview
+
+## 🔍 Server Status
+Checks if the process:
+
+
+is running.
+
+---
+
+## 💾 VRAM (Committed Memory) Check
+
+- **< 24 GB → Good**  
+- **24–28 GB → Critical**  
+- **> 28 GB → Restarting**
+
+---
+
+## 🎮 Player Info via ARRCON
+
+Runs:
+
+Cleans and formats the player list.
+
+---
+
+## ⏱ Uptime & Next Restart
+
+- Pulls process start time  
+- Reads Task Scheduler for next reboot
+
+---
+
+## 📨 Webhook Update
+
+Sends a PATCH request:
+
+
+to update the Discord embed in place.
+
+---
+
+## ▶️ Running the Script
+
+Just run:
+
+.\PalworldStatusUpdater.ps1
+
+
 ## 📬 How to Get a Discord Webhook URL
 
 1. **Open the channel settings**
