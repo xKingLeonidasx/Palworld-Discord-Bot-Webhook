@@ -24,6 +24,7 @@ Perfect for automated status dashboards in Discord!
 - Webhook message ID (since this script edits the message)
 - Update the RCON password and port on the script specific to your server.
 - Can change the Patch message for Discord at bottom of script.
+- Can change the RAM threshold based on your server.
 
 
 # ⚙️ Script Overview
